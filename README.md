@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [David-Ademola](https://github.com/David-Ademola)
-- 👀 I’m interested in Data Science and Machine Learning with Python using Tensorflow and Scikit-Learn.
-- 🌱 I’m currently learning Scikit-Learn.
+- 👀 I’m interested in Data Science and Machine Learning with Python using TensorFlow and Scikit-Learn.
+- 🌱 I’m currently learning Scikit-Learn and TensorFlow
 - 💞️ I’m looking to collaborate on projects that can make an impact and be a nice addition to my portfolio. 😃
 - 📫 You can reach at dakinwande350@gmail.com.
 
